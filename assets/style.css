@@ -69,7 +69,7 @@ body {
     z-index: 0
 }
 
-.picture img {
+.picture img, .carousel-item img {
     width: 100%;
     height: auto;
 }
